@@ -1,1 +1,12 @@
+En esta práctica comenzamos a meter algunos comandos al programa GNU Linux, los cuales tenían una función diferente, vimos la parte teoría necesaria, desde las licencias, los comandos, su núcleo kernel, hasta los comandos básicos de este, ls por ejemplo, listan os elementos en el sistema en donde quiera que se encuentren, a su ves ls. hace exactamente la misma función.
+tenemos también ls -l este nos indica a donde deseamos listar los elementos del sistema. para que nosotros podamos ver los archivos que se encuentran en la raíz se utiliza ls /
+para poder ver los usuarios de nuestro equipo le agregamos la palabra home a un lado del slash: ls /home
+ el sistema linux proporciona el comando man, el cual permite visualizar la descripción de cualquier, también la manera en la que este se puede utilizar.  man  ls
+probamos casi todos los comandos que venían sugeridos en l práctica, los más básicos. Uno imortante es el de ls .. que nos manda al directorio padre. por otro lado tenemos el comando touch, que se utiliza para crear archivos  touch nombre_archivo[.ext] 
+En el comando mkdir permite crear una carpeta, dicho comando lo denotamos asi: mkdir nombre_carpeta 
+tenemos un comando especial para ubicarnos en una carpeta: cd nombre_carpeta . Un comando que vale la pena resaltar es el de clear, ya que como su nombre lo dice, este limpiara la pantalla de todos los comandos que antes pudiéramos haber escrito en nuestro sistema linux. Tenemos el comando cp, el cual ns permite copiar archivos  cp archivo_origen archivo_destino. El comando mv mueve un archivo de un lugar a otro, en el sistema de archivos, este comando lo denotamos asi: mv ubicación_origen/archivo ubicación_destino 
+sim duda tenemos gran variedad de comandos, que son muy útiles.
+
+Conclusiones:
+En esta práctica pudimos aplicar el 90% de los comandos básicos establecidos, corroborando l funcionalidad y eficiencia de cada uno, pus cada estudiante, creamos diferentes carpetas y archivos para probar y aprender un poco mas, lnux es un programa sencillo pero muy util, además de no ser tan complicado de manejar.
 
